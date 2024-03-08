@@ -4,8 +4,8 @@ import Card from "../Card";
 function Menu() {
     return (
         <>
-            <nav class="navbar navbar-light bg-light d-flex justify-content-center">
-                <a class="navbar-brand" href="#">Cardápio</a>
+            <nav class="navbar navbar-light bg-dark d-flex justify-content-center">
+                <a class="navbar-brand" href="#" style={{color: "white"}}>Cardápio</a>
             </nav>
             <div className="d-flex justify-content-center">
                 <div className="d-flex justify-content-center" style={{ maxWidth: "900px" }}>
