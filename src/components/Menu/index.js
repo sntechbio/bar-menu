@@ -16,7 +16,7 @@ function Menu() {
                             texto={"Pode acompanhar batata ou macaxeira"}
                             precoG={"R$ 38,00"}
                             isM={true}
-                            precoM={"R$ 33,00"}
+                            precoM={"R$ 35,00"}
                             img={"./../../img/prato1.jpg"}
                         />
                         <Card
@@ -24,7 +24,7 @@ function Menu() {
                             texto={"Pode acompanhar batata ou macaxeira"}
                             precoG={"R$ 38,00"}
                             isM={true}
-                            precoM={"R$ 33,00"}
+                            precoM={"R$ 35,00"}
                             img={"./../../img/prato2.jpg"}
                         />
                         <Card
@@ -32,7 +32,7 @@ function Menu() {
                             texto={"-"}
                             precoG={"R$ 38,00"}
                             isM={true}
-                            precoM={"R$ 33,00"}
+                            precoM={"R$ 35,00"}
                             img={"./../../img/prato3.jpg"}
                         />
                         <Card
@@ -40,7 +40,7 @@ function Menu() {
                             texto={"Pode acompanhar batata ou macaxeira"}
                             precoG={"R$ 50,00"}
                             isM={false}
-                            precoM={"R$ 33,00"}
+                            precoM={"R$ 45,00"}
                             img={"./../../img/prato4.jpg"}
                         />
                         <Card
