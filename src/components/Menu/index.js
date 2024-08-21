@@ -14,7 +14,7 @@ function Menu() {
                         <Card
                             titulo={"Carne"}
                             texto={"Pode acompanhar batata ou macaxeira"}
-                            precoG={"R$ 38,00"}
+                            precoG={"R$ 40,00"}
                             isM={true}
                             precoM={"R$ 35,00"}
                             img={"./../../img/prato1.jpg"}
@@ -22,8 +22,8 @@ function Menu() {
                         <Card
                             titulo={"Charque"}
                             texto={"Pode acompanhar batata ou macaxeira"}
-                            precoG={"R$ 38,00"}
-                            isM={true}
+                            precoG={"R$ 40,00"}
+                            isM={false}
                             precoM={"R$ 35,00"}
                             img={"./../../img/prato2.jpg"}
                         />
